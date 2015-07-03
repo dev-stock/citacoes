@@ -1,2 +1,3 @@
 "Hasta la vista, baby." (exterminador do futuro 2)
 Fazendo outra alteração no arquivo.
+Primeiro devo configurar o repositorio e a ssh do github.
